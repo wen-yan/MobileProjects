@@ -16,3 +16,6 @@ a = myclass()
 a.instanceask()
 a.staticask()
 a.classask()
+
+print myclass.__dict__
+
